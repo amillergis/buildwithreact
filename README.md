@@ -1,7 +1,7 @@
-minimal-starter-react
+buildwithreact
 ---
 
-Based on the tutorial at "andrewhfarmer.com/build-your-own-starter"
+Based on the tutorial at "http://buildwithreact.com/"
 
 This is an npm project.  All dependencies can be installed using npm install.
 
