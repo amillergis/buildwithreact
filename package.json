@@ -1,0 +1,20 @@
+{
+  "name": "minimal-starter-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amillergis/minimal-starter-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amillergis/minimal-starter-react/issues"
+  },
+  "homepage": "https://github.com/amillergis/minimal-starter-react#readme"
+}
