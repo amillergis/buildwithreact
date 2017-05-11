@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/amillergis/minimal-starter-react/issues"
   },
-  "homepage": "https://github.com/amillergis/minimal-starter-react#readme"
+  "homepage": "https://github.com/amillergis/minimal-starter-react#readme",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
